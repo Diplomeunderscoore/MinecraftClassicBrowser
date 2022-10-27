@@ -2,8 +2,11 @@
 
 **-----------------------------------------------------------**
 
+**INFO**
+
 Feel free to use this for you or your friend. 
 Dont use the code for a website or more, must give Credit if you want to publish on Github
+
 
 ![image](https://user-images.githubusercontent.com/113782008/198266184-ae38d241-93d1-48df-b144-d65abb1895b8.png)
 
