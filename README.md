@@ -16,8 +16,8 @@ Dont use the code for a website or more, must give Credit if you want to publish
 
 **CREDITS**
 
-Thanks Crystalinqq / DPS for helping
-Thanks the browser for images.
+Thanks Crystalinqq / DPS for helping.
+Thanks the browser for images :)
 
 **-----------------------------------------------------------**
 
